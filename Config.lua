@@ -561,6 +561,7 @@ function TalonConfigPanel:Register()
     -- 使用 12.0 现代 Settings API
     local category = Settings.RegisterCanvasLayoutCategory(panel, "Talon")
     Settings.RegisterAddOnCategory(category)
+    addon.category = category
 end
 
 -- ============================================================================

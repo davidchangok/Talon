@@ -235,6 +235,8 @@ SlashCmdList["TALON"] = function(msg)
         TalonScanner.manualScanActive = true
         TalonScanner:ScanWorldQuests()
     elseif msg == "config" then
-        Settings.OpenToCategory("Talon")
+        if addon.category then
+            Settings.OpenToCategory(addon.category:GetID())
+        end
     end
 end

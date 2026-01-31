@@ -3,7 +3,7 @@
 ## Notes: Daily Quest Achievement Tracker with Smart Notifications
 ## Notes-zhCN: 鹰爪 - 日常任务成就智能追踪助手
 ## Author: YourName
-## Version: 2.1.0
+## Version: 2.4.0
 ## SavedVariables: TalonDB
 ## IconTexture: Interface\Icons\Ability_Hunter_EagleEye
 ## X-Website: https://www.curseforge.com/wow/addons/talon
