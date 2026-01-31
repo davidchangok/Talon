@@ -2,7 +2,7 @@
 ## Title: Talon
 ## Notes: Daily Quest Achievement Tracker with Smart Notifications
 ## Notes-zhCN: 鹰爪 - 日常任务成就智能追踪助手
-## Author: YourName
+## Author: David W Zhang
 ## Version: 2.4.0
 ## SavedVariables: TalonDB
 ## IconTexture: Interface\Icons\Ability_Hunter_EagleEye

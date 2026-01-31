@@ -3,7 +3,7 @@
 Talon - English (US) Localization
 ================================================================================
 Description: English locale strings for all UI and system messages
-Author: YourName
+Author: David W Zhang
 Version: 12.0.0
 Locale: enUS (English - United States)
 ================================================================================

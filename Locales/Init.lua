@@ -3,7 +3,7 @@
 Talon - Localization Initialization System
 ================================================================================
 Description: Modern localization framework with fallback mechanism
-Author: YourName
+Author: David W Zhang
 Version: 12.0.0
 Architecture: Metatable-based dynamic string lookup
 ================================================================================
