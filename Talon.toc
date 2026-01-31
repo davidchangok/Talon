@@ -1,0 +1,22 @@
+## Interface: 120000
+## Title: Talon
+## Notes: Daily Quest Achievement Tracker with Smart Notifications
+## Notes-zhCN: 鹰爪 - 日常任务成就智能追踪助手
+## Author: YourName
+## Version: 2.1.0
+## SavedVariables: TalonDB
+## IconTexture: Interface\Icons\Ability_Hunter_EagleEye
+## X-Website: https://www.curseforge.com/wow/addons/talon
+## X-Category: Achievements
+## X-Curse-Project-ID: 1448175
+## X-WoWI-ID: 0
+
+# Localization System
+Locales\Init.lua
+Locales\enUS.lua
+Locales\zhCN.lua
+
+# Data & Core
+DailyAchData.lua
+Core.lua
+Config.lua
